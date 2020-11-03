@@ -24,15 +24,5 @@ I am always excited for new interesting technologies and projects! You can find 
 ![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ChrisCharma/ChrisCharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teotsi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ChrisCharma/ChrisCharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisCharma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
 [3.1]: https://github.com/ChrisCharma/ChrisCharma/blob/main/iconmonstr-linkedin-3.svg 
 [3]: https://www.linkedin.com/in/christos-charmantas-b5481a1b7/
