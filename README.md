@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
-My name is Christos and I am a full stack developer 💻. I am in my last year of studies in Athens University of Economics and Business, in the department of Informatics, in Athens Greece. I am always excited for new interesting technologies and projects! You can find me in [![LinkedIn]][3].
+My name is Christos and I am a full stack developer 💻. I am in my last year of studies in Athens University of Economics and Business, in the department of Informatics, in Athens Greece. I am always excited for new interesting technologies and projects! You can find me in [![LinkedIn][3.1]][3].
 
 🛠️ **Technologies & Tools**
 ---
@@ -20,5 +20,8 @@ My name is Christos and I am a full stack developer 💻. I am in my last year o
 ![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
+
+[3.1]: https://github.com/ChrisCharma/ChrisCharma/blob/main/iconmonstr-linkedin-3.svg 
 [3]: https://www.linkedin.com/in/christos-charmantas-b5481a1b7/
