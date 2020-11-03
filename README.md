@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
----
+
 My name is Christos and I am a full stack developer 💻. I am in my last year of studies in Athens University of Economics and Business, in the department of Informatics, in Athens Greece. 
 
 I am always excited for new interesting technologies and projects! You can find me on [![LinkedIn][3.1]][3].
